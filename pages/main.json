@@ -1,0 +1,86 @@
+{
+
+	"base_url" : "https://raw.githubusercontent.com/malnaspeter/PalF/master/pages/",
+	"Kedd esti alkalmak" :[
+	   	{
+	        "name": "2001-2002",
+	        "description": "",
+	        "url" : "1.json"
+	    },
+	    {
+	        "name": "2002-2003",
+	        "description": "",
+	        "url" : "2.json"
+	    },
+	     {
+	        "name": "2003-2004",
+	        "description": "",
+	        "url" : "3.json"
+	    },
+	    {
+	        "name": "2004-2005",
+	        "description": "",
+	        "url" : "4.json"
+	    },
+	    {
+	        "name": "2005-2006",
+	        "description": "",
+	        "url" : "5.json"
+	    },
+	    {
+	        "name": "2006-2007",
+	        "description": "",
+	        "url" : "6.json"
+	    },
+	    {
+	        "name": "2007-2008",
+	        "description": "",
+	        "url" : "7.json"
+	    },
+	    {
+	        "name": "2008-2009",
+	        "description": "",
+	        "url" : "8.json"
+	    },
+	    {
+	        "name": "2009-2010",
+	        "description": "",
+	        "url" : "9.json"
+	    },
+	    {
+	        "name": "2010-2011",
+	        "description": "",
+	        "url" : "10.json"
+	    },
+	    {
+	        "name": "2011-2012",
+	        "description": "",
+	        "url" : "11.json"
+	    },
+	    {
+	        "name": "2012-2013",
+	        "description": "",
+	        "url" : "12.json"
+	    },
+	    {
+	        "name": "2013-2014",
+	        "description": "",
+	        "url" : "13.json"
+	    },
+	    {
+	        "name": "2014-2015",
+	        "description": "",
+	        "url" : "14.json"
+	    },
+	    {
+	        "name": "2015-2016",
+	        "description": "",
+	        "url" : "15.json"
+	    },
+	    {
+	        "name": "2016-2017",
+	        "description": "",
+	        "url" : "16.json"
+	    }
+	]
+}
