@@ -1,194 +1,194 @@
 ﻿[
-    {
-        "name": "",
-        "fileName": "20010918_rossz.mp3",
-        "date": "2010-05-12 14:41  ",
-        "description": " 15M"
-    },
-    {
-        "name": "",
-        "fileName": "20010925.mp3",
-        "date": "2010-05-12 14:50  ",
-        "description": " 16M"
-    },
-    {
-        "name": "",
-        "fileName": "20011002.mp3",
-        "date": "2010-05-12 14:46  ",
-        "description": " 18M"
-    },
-    {
-        "name": "",
-        "fileName": "20011009.mp3",
-        "date": "2010-05-12 14:41  ",
-        "description": " 17M"
-    },
-    {
-        "name": "",
-        "fileName": "20011016.mp3",
-        "date": "2010-05-12 14:46  ",
-        "description": " 16M"
-    },
-    {
-        "name": "",
-        "fileName": "20011106.mp3",
-        "date": "2010-05-12 14:44  ",
-        "description": " 14M"
-    },
-    {
-        "name": "",
-        "fileName": "20011113_rossz.mp3",
-        "date": "2010-05-12 14:51  ",
-        "description": " 15M"
-    },
-    {
-        "name": "",
-        "fileName": "20011120.mp3",
-        "date": "2010-05-12 14:46  ",
-        "description": " 16M"
-    },
-    {
-        "name": "",
-        "fileName": "20011127.mp3",
-        "date": "2010-05-12 14:40  ",
-        "description": " 15M"
-    },
-    {
-        "name": "",
-        "fileName": "20011204.mp3",
-        "date": "2010-05-12 14:46  ",
-        "description": " 15M"
-    },
-    {
-        "name": "",
-        "fileName": "20011211.mp3",
-        "date": "2010-05-12 14:44  ",
-        "description": " 17M"
-    },
-    {
-        "name": "",
-        "fileName": "20011218.mp3",
-        "date": "2010-05-12 14:50  ",
-        "description": " 13M"
-    },
-    {
-        "name": "",
-        "fileName": "20020108.mp3",
-        "date": "2010-05-12 14:47  ",
-        "description": " 16M"
-    },
-    {
-        "name": "",
-        "fileName": "20020115.mp3",
-        "date": "2010-05-12 14:45  ",
-        "description": " 15M"
-    },
-    {
-        "name": "",
-        "fileName": "20020122.mp3",
-        "date": "2010-05-12 14:44  ",
-        "description": " 16M"
-    },
-    {
-        "name": "",
-        "fileName": "20020129.mp3",
-        "date": "2010-05-12 14:44  ",
-        "description": " 16M"
-    },
-    {
-        "name": "",
-        "fileName": "20020205.mp3",
-        "date": "2010-05-12 14:48  ",
-        "description": " 16M"
-    },
-    {
-        "name": "",
-        "fileName": "20020212.mp3",
-        "date": "2010-05-12 14:45  ",
-        "description": " 17M"
-    },
-    {
-        "name": "",
-        "fileName": "20020219_rossz.mp3",
-        "date": "2010-05-12 14:45  ",
-        "description": " 16M"
-    },
-    {
-        "name": "",
-        "fileName": "20020226.mp3",
-        "date": "2010-05-12 14:45  ",
-        "description": " 15M"
-    },
-    {
-        "name": "",
-        "fileName": "20020305.mp3",
-        "date": "2010-05-12 14:44  ",
-        "description": " 15M"
-    },
-    {
-        "name": "",
-        "fileName": "20020312.mp3",
-        "date": "2010-05-12 14:41  ",
-        "description": " 15M"
-    },
-    {
-        "name": "",
-        "fileName": "20020319.mp3",
-        "date": "2010-05-12 14:49  ",
-        "description": " 16M"
-    },
-    {
-        "name": "",
-        "fileName": "20020326.mp3",
-        "date": "2010-05-12 14:45  ",
-        "description": " 16M"
-    },
-    {
-        "name": "",
-        "fileName": "20020409.mp3",
-        "date": "2010-05-12 14:51  ",
-        "description": " 16M"
-    },
-    {
-        "name": "",
-        "fileName": "20020416.mp3",
-        "date": "2010-05-12 14:41  ",
-        "description": " 16M"
-    },
-    {
-        "name": "",
-        "fileName": "20020423.mp3",
-        "date": "2010-05-12 14:50  ",
-        "description": " 18M"
-    },
-    {
-        "name": "",
-        "fileName": "20020430.mp3",
-        "date": "2010-05-12 14:46  ",
-        "description": "7.9M"
-    },
-    {
-        "name": "",
-        "fileName": "20020507.mp3",
-        "date": "2010-05-12 14:48  ",
-        "description": " 15M"
-    },
-    {
-        "name": "",
-        "fileName": "20020514.mp3",
-        "date": "2010-05-12 14:48  ",
-        "description": " 16M"
-    },
-    {
-        "name": "",
-        "fileName": "20020521.mp3",
-        "date": "2010-05-12 14:50  ",
-        "description": " 15M"
-    },
-    {
-        "name": "",
-        "fileName": "20020528.mp3",
-        "date": "2010-05-12 14:49  ",
-        "description": " 16M"
-    }
+{
+"name":"",
+"fileName":"20010918_rossz.mp3",
+"date":"2010-05-1214:41",
+"description":"15M"
+},
+{
+"name":"",
+"fileName":"20010925.mp3",
+"date":"2010-05-1214:50",
+"description":"16M"
+},
+{
+"name":"",
+"fileName":"20011002.mp3",
+"date":"2010-05-1214:46",
+"description":"18M"
+},
+{
+"name":"",
+"fileName":"20011009.mp3",
+"date":"2010-05-1214:41",
+"description":"17M"
+},
+{
+"name":"",
+"fileName":"20011016.mp3",
+"date":"2010-05-1214:46",
+"description":"16M"
+},
+{
+"name":"",
+"fileName":"20011106.mp3",
+"date":"2010-05-1214:44",
+"description":"14M"
+},
+{
+"name":"",
+"fileName":"20011113_rossz.mp3",
+"date":"2010-05-1214:51",
+"description":"15M"
+},
+{
+"name":"",
+"fileName":"20011120.mp3",
+"date":"2010-05-1214:46",
+"description":"16M"
+},
+{
+"name":"",
+"fileName":"20011127.mp3",
+"date":"2010-05-1214:40",
+"description":"15M"
+},
+{
+"name":"",
+"fileName":"20011204.mp3",
+"date":"2010-05-1214:46",
+"description":"15M"
+},
+{
+"name":"",
+"fileName":"20011211.mp3",
+"date":"2010-05-1214:44",
+"description":"17M"
+},
+{
+"name":"",
+"fileName":"20011218.mp3",
+"date":"2010-05-1214:50",
+"description":"13M"
+},
+{
+"name":"",
+"fileName":"20020108.mp3",
+"date":"2010-05-1214:47",
+"description":"16M"
+},
+{
+"name":"",
+"fileName":"20020115.mp3",
+"date":"2010-05-1214:45",
+"description":"15M"
+},
+{
+"name":"",
+"fileName":"20020122.mp3",
+"date":"2010-05-1214:44",
+"description":"16M"
+},
+{
+"name":"",
+"fileName":"20020129.mp3",
+"date":"2010-05-1214:44",
+"description":"16M"
+},
+{
+"name":"",
+"fileName":"20020205.mp3",
+"date":"2010-05-1214:48",
+"description":"16M"
+},
+{
+"name":"",
+"fileName":"20020212.mp3",
+"date":"2010-05-1214:45",
+"description":"17M"
+},
+{
+"name":"",
+"fileName":"20020219_rossz.mp3",
+"date":"2010-05-1214:45",
+"description":"16M"
+},
+{
+"name":"",
+"fileName":"20020226.mp3",
+"date":"2010-05-1214:45",
+"description":"15M"
+},
+{
+"name":"",
+"fileName":"20020305.mp3",
+"date":"2010-05-1214:44",
+"description":"15M"
+},
+{
+"name":"",
+"fileName":"20020312.mp3",
+"date":"2010-05-1214:41",
+"description":"15M"
+},
+{
+"name":"",
+"fileName":"20020319.mp3",
+"date":"2010-05-1214:49",
+"description":"16M"
+},
+{
+"name":"",
+"fileName":"20020326.mp3",
+"date":"2010-05-1214:45",
+"description":"16M"
+},
+{
+"name":"",
+"fileName":"20020409.mp3",
+"date":"2010-05-1214:51",
+"description":"16M"
+},
+{
+"name":"",
+"fileName":"20020416.mp3",
+"date":"2010-05-1214:41",
+"description":"16M"
+},
+{
+"name":"",
+"fileName":"20020423.mp3",
+"date":"2010-05-1214:50",
+"description":"18M"
+},
+{
+"name":"",
+"fileName":"20020430.mp3",
+"date":"2010-05-1214:46",
+"description":"7.9M"
+},
+{
+"name":"",
+"fileName":"20020507.mp3",
+"date":"2010-05-1214:48",
+"description":"15M"
+},
+{
+"name":"",
+"fileName":"20020514.mp3",
+"date":"2010-05-1214:48",
+"description":"16M"
+},
+{
+"name":"",
+"fileName":"20020521.mp3",
+"date":"2010-05-1214:50",
+"description":"15M"
+},
+{
+"name":"",
+"fileName":"20020528.mp3",
+"date":"2010-05-1214:49",
+"description":"16M"
+}
 ]
