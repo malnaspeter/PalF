@@ -1,6 +1,7 @@
 {
 
 	"base_url" : "https://raw.githubusercontent.com/malnaspeter/PalF/master/pages/",
+	"audio_base_url" : "http://mail.palferi.hu/hang/",
 	"TuesdayEvent" :[
 	   	{
 	        "name": "2001-2002",
