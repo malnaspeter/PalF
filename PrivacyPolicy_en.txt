@@ -1,0 +1,24 @@
+Privacy Policy for PálferiApp
+Introduction
+Welcome to PálferiApp! We respect the privacy of our users and are committed to protecting their personal data. This Privacy Policy informs you of our policies regarding the collection, use, storage, and protection of your data while using our app.
+
+Data We Collect
+PálferiApp does not collect any personal data. The app only requires internet access to download audio content and to track user interactions such as listened audio content and favorites. These data are processed anonymously and do not directly identify the user.
+
+How We Use Your Data
+The data collected are used for the following purposes:
+
+To download audio content and enhance user experience.
+To track user preferences to offer personalized content.
+To analyze and improve the app’s performance and stability.
+Data Storage
+The data collected by the app are securely stored on the device. We take all necessary measures to protect the data against unauthorized access, alteration, disclosure, or destruction.
+
+Your Privacy Rights
+Since the app does not collect personal data, users do not have direct privacy rights in this context. However, if you have any questions or concerns about our privacy practices, please contact us.
+
+Contact Us
+If you have any questions about this Privacy Policy, please contact us at app2gether@gmail.com.
+
+Changes to This Privacy Policy
+We reserve the right to make changes to this Privacy Policy from time to time. Following the implementation of the new version, the continued use of the app will constitute your acceptance of such changes.

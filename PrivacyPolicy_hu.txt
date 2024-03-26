@@ -1,0 +1,24 @@
+Adatvédelmi Nyilatkozat a PálferiApp számára
+Bevezetés
+Üdvözlünk a PálferiAppban! Tiszteletben tartjuk felhasználóink magánéletét és elkötelezettek vagyunk amellett, hogy védjük személyes adataikat. Ez az Adatvédelmi Nyilatkozat tájékoztat arról, hogyan gyűjtünk, használunk, tárolunk és védjük a felhasználói adatokat az alkalmazás használata során.
+
+Milyen adatokat gyűjtünk?
+A PálferiApp nem gyűjt személyes adatokat. Az alkalmazás csak az internethez való csatlakozáshoz kér hozzáférést a hanganyagok letöltése és a felhasználói interakciók (pl. meghallgatott hanganyagok, kedvencek) nyomon követése céljából. Ezek az adatok anonim módon kerülnek kezelésre és nem azonosítják közvetlenül a felhasználót.
+
+Hogyan használjuk az adatokat?
+A gyűjtött adatokat az alábbi célokra használjuk fel:
+
+A hanganyagok letöltése és a felhasználói élmény javítása.
+A felhasználói preferenciák nyomon követése, hogy személyre szabott tartalmat kínálhassunk.
+Az alkalmazás teljesítményének és stabilitásának elemzése és javítása.
+Hogyan tároljuk az adatokat?
+Az alkalmazás által gyűjtött adatokat biztonságosan tároljuk az eszközön. Minden intézkedést megteszünk az adatok védelme érdekében a hozzáférés, a módosítás, a közzététel vagy a jogosulatlan használat ellen.
+
+Adatvédelmi jogok
+Mivel az alkalmazás nem gyűjt személyes adatokat, a felhasználóknak nincsenek közvetlenül érintett adatvédelmi jogai ebben a kontextusban. Azonban, ha bármilyen kérdésed vagy aggályod van az adatvédelmi gyakorlatunkkal kapcsolatban, kérjük, lépj velünk kapcsolatba.
+
+Kapcsolat
+Ha bármilyen kérdésed van az Adatvédelmi Nyilatkozattal kapcsolatban, kérjük, lépj kapcsolatba velünk a következő címen: app2gether@gmail.com.
+
+Módosítások az Adatvédelmi Nyilatkozatban
+Fenntartjuk a jogot, hogy időről időre módosítsuk ezt az Adatvédelmi Nyilatkozatot. 
